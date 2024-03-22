@@ -1,0 +1,69 @@
+*{
+    text-align: center;
+}
+body{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    font-size: 21px ;
+}
+img{
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+}
+.usama{
+   
+    margin: 0 auto;
+}
+
+h1{
+    font-weight: 300;
+    font-style: normal;
+    font-size: 60px;
+}
+h2{
+    font-size: 42px;
+    font-weight: 300;
+    font-style: normal;
+}
+
+h3{
+    font-size: 36px ;
+    font-style: normal;
+}
+
+.small{
+    font-size: 16px ;
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+h1 span{
+    font-size: 80px;
+    font-weight: 900;
+    font-style: normal;
+}
+h2 span{
+    font-size: 60px;
+    font-weight: 900;
+    font-style: normal;
+}
+p a{
+    color: #99D930;
+}
+p a:hover{
+    color:  #131313;    
+}
+.name{
+    background-color:  #D7D7D7;
+}
+.about{
+    background-color:  #FFEAEA;
+}
+article{
+    background-color: #EAF9FF;
+}
+.usama,.about-me,article{
+    padding:100px 0;
+}
